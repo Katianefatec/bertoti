@@ -10,4 +10,4 @@ Há excesso de ícones, causando um desconforto visual
 
 O ícone "+Serviços" foge dos padrões visuais utilizados, além de estar no canto esquerdo, sendo que o mais intuitivo seria estar centralizado ou no canto inferior direito
 
-![site jfsp2](https://github.com/Katianefatec/bertoti/blob/main/ihc/img/heuristica8.png)
+![site jfsp2](https://github.com/Katianefatec/bertoti/blob/main/ihc/img/heuristica4.png)
