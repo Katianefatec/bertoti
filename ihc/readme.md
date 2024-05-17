@@ -17,3 +17,12 @@ O ícone "+Serviços" está dentro dos padrões visuais utilizados, pois está n
 O ícone "+Serviços" está dentro dos padrões visuais utilizados, pois está no canto inferior direito
 
 ![site jfsp2](https://github.com/Katianefatec/bertoti/blob/main/ihc/img/heuristica9.png)
+
+## 4. Acerto - Heurística 4 (Consistência e Padrões):
+
+Há uma consistência nos padrões das imagens, facilitando a identificação do usuário
+
+![site jfsp2](https://github.com/Katianefatec/bertoti/blob/main/ihc/img/heuristica4.png)
+
+
+
