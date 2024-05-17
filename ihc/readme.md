@@ -54,6 +54,11 @@ Minimize a carga de memória do usuário tornando visíveis elementos, ações e
 
 ![site jfsp2](https://github.com/Katianefatec/bertoti/blob/main/ihc/img/heuristica6.png)
 
+## 10. Erro - Heurística 7 (Flexibilidade e Eficiência de Uso):
+
+Atalhos – ocultos para usuários novatos – podem acelerar a interação do usuário experiente. Na imagem abaixo os primeiros atalhos são facilmente identificados, os demais exigem certa experiência do usuário.
+![site jfsp2](https://github.com/Katianefatec/bertoti/blob/main/ihc/img/heuristica7.png)
+
 
 
 
