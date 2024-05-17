@@ -48,6 +48,12 @@ Os usuários geralmente executam ações por engano. Eles precisam de uma “sa�
 
 ![site jfsp2](https://github.com/Katianefatec/bertoti/blob/main/ihc/img/heuristica2.png)
 
+## 9. Acerto - Heurística 6 (Reconhecimento em vez de lembrança):
+
+Minimize a carga de memória do usuário tornando visíveis elementos, ações e opções. Na imagem abaixo a cesta remete à compra, dando dicas para o usuario onde finalizar a compra.
+
+![site jfsp2](https://github.com/Katianefatec/bertoti/blob/main/ihc/img/heuristica6.png)
+
 
 
 
