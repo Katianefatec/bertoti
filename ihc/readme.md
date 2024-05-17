@@ -10,7 +10,7 @@ Há excesso de ícones, causando um desconforto visual
 
 O ícone "+Serviços" está dentro dos padrões visuais utilizados, pois está no canto inferior direito
 
-![site jfsp2](https://github.com/Katianefatec/bertoti/blob/main/ihc/img/heuristica4.png)
+![site jfsp2](https://github.com/Katianefatec/bertoti/blob/main/ihc/img/heuristica9.png)
 
 ## 3. Acerto - Heurística 9 (Ajuda os usuários a reconhecer, diagnosticar e se recuperar de erros):
 
