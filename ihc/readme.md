@@ -36,6 +36,14 @@ Mensagens de erro são importantes, pois evitam a ocorrência de problemas. Na i
 
 ![site jfsp2](https://github.com/Katianefatec/bertoti/blob/main/ihc/img/heuristica5.png)
 
+## 7. Acerto - Heurística 2 (Correspondência entre o sistema e o mundo real):
+
+O design deve falar a língua dos usuários. O ícone da lixeira, por exemplo, remete à lixeira do mundo real
+
+![site jfsp2](https://github.com/Katianefatec/bertoti/blob/main/ihc/img/heuristica2.png)
+
+
+
 
 
 
