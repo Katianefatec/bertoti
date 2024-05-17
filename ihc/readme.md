@@ -42,6 +42,12 @@ O design deve falar a língua dos usuários. O ícone da lixeira, por exemplo, r
 
 ![site jfsp2](https://github.com/Katianefatec/bertoti/blob/main/ihc/img/heuristica2.png)
 
+## 8. Acerto - Heurística 3 (Controle e liberdade do usuário):
+
+Os usuários geralmente executam ações por engano. Eles precisam de uma “saída de emergência” claramente marcada para abandonar a ação indesejada . Na imagem abaixo é possível encontrar os e-mails excluídos em "itens excluídos" para reverter a exclusão.
+
+![site jfsp2](https://github.com/Katianefatec/bertoti/blob/main/ihc/img/heuristica2.png)
+
 
 
 
