@@ -14,7 +14,7 @@ O ícone "+Serviços" está fora dos padrões visuais utilizados, pois está no 
 
 ## 3. Acerto - Heurística 9 (Ajuda os usuários a reconhecer, diagnosticar e se recuperar de erros):
 
-O ícone "+Serviços" está dentro dos padrões visuais utilizados, pois está no canto inferior direito
+Na imagem há mensagem de erro informando ao usuário que não há mais os itens no estoque, melhorando a usabilidade pois seria frustrante descobrir isso apenas no momento do checkout.
 
 ![site jfsp2](https://github.com/Katianefatec/bertoti/blob/main/ihc/img/heuristica9.png)
 
@@ -26,7 +26,7 @@ Há uma consistência nos padrões das imagens, facilitando a identificação do
 
 ## 5. Acerto - Heurística 1 (Visibilidade do status do sistema):
 
-O design mantém os usuários informados sobre o que está acontecend. Ao lado direito indicando qual vídeo estamos assistindo, quais os vídeos anteriores e quais os seguintes.
+O design mantém os usuários informados sobre o que está acontecendo. Ao lado direito indicando qual vídeo estamos assistindo, quais os vídeos anteriores e quais os seguintes.
 
 ![site jfsp2](https://github.com/Katianefatec/bertoti/blob/main/ihc/img/heuristica1.png)
 
