@@ -24,5 +24,11 @@ Há uma consistência nos padrões das imagens, facilitando a identificação do
 
 ![site jfsp2](https://github.com/Katianefatec/bertoti/blob/main/ihc/img/heuristica4.png)
 
+## 5. Acerto - Heurística 1 (Visibilidade do status do sistema)
+
+O design mantém os usuários informados sobre o que está acontecend. Ao lado direito indicando qual vídeo estamos assistindo, quais os vídeos anteriores e quais os seguintes.
+
+![site jfsp2](https://github.com/Katianefatec/bertoti/blob/main/ihc/img/heuristica1.png)
+
 
 
